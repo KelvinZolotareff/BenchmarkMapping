@@ -1,0 +1,5 @@
+C:\Users\Kelvin\BenchmarkMapping\bin\Release\net9.0\6f19f3a1-7509-40b9-8f90-f46160d8e2aa\obj\Release\net9.0\BenchmarkMapping.csproj.AssemblyReference.cache
+C:\Users\Kelvin\BenchmarkMapping\bin\Release\net9.0\6f19f3a1-7509-40b9-8f90-f46160d8e2aa\obj\Release\net9.0\BenchmarkMapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\BenchmarkMapping\bin\Release\net9.0\6f19f3a1-7509-40b9-8f90-f46160d8e2aa\obj\Release\net9.0\BenchmarkMapping.AssemblyInfoInputs.cache
+C:\Users\Kelvin\BenchmarkMapping\bin\Release\net9.0\6f19f3a1-7509-40b9-8f90-f46160d8e2aa\obj\Release\net9.0\BenchmarkMapping.AssemblyInfo.cs
+C:\Users\Kelvin\BenchmarkMapping\bin\Release\net9.0\6f19f3a1-7509-40b9-8f90-f46160d8e2aa\obj\Release\net9.0\BenchmarkMapping.csproj.CoreCompileInputs.cache
