@@ -4,11 +4,11 @@ This repository contains a benchmark comparison between AutoMapper and Riok Mapp
 
 The goal is to evaluate the performance of both libraries when mapping a large number of objects.
 
-⚙️ What’s Inside
-✅ Console app built with .NET
-✅ Source and destination classes with multiple properties
-✅ BenchmarkDotNet integration
-✅ Comparative tests mapping 100,000 objects
+⚙️ What’s Inside 
+<br>✅ Console app built with .NET
+<br>✅ Source and destination classes with multiple properties
+<br>✅ BenchmarkDotNet integration
+<br>✅ Comparative tests mapping 100,000 objects
 
 📌 Why this matters
 After the announcement that AutoMapper will adopt a commercial license, many developers are looking for lightweight and more efficient alternatives.
