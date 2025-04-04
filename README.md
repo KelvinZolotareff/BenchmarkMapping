@@ -13,3 +13,5 @@ The goal is to evaluate the performance of both libraries when mapping a large n
 📌 Why this matters
 After the announcement that AutoMapper will adopt a commercial license, many developers are looking for lightweight and more efficient alternatives.
 Mapperly, by generating mapping code at compile time, offers significant performance advantages compared to AutoMapper’s runtime reflection-based approach.
+
+![100k Requests Benchmark Riok Mapperly vs  AutoMapper (4)](https://github.com/user-attachments/assets/f32af427-21b5-4f33-bf92-6af277d028bb)
